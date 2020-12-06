@@ -6,6 +6,6 @@ First, you must install selenium and webdriver for your browser. Learn more in <
 
 ### Libraries to install with pip
 ```python
-pip install pandas
+pip install pandas # To convert the results to a pandas dataframe and then convert to .csv and .xlsx files
 ````
 
