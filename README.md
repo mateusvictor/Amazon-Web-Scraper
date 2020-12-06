@@ -2,7 +2,7 @@
 A Web Scraper to find products on amazon.com that stores the results in .csv and .xslx files.
 
 ## How to use it?
-First, you must install selenium and webdriver for your browser. Learn more in <a href="https://selenium-python.readthedocs.io/installation.html">selenium docs</a>.
+You must install selenium and webdriver for your browser. Learn more in <a href="https://selenium-python.readthedocs.io/installation.html">selenium docs</a>.
 
 ### Libraries to install with pip
 ```python
@@ -15,4 +15,8 @@ pip install pandas # To convert the results to a pandas dataframe and then conve
 pip install bs4 # To use BeautifulSoup (library for pulling data out of HTML and XML files)
 ````
 
+### Usage
 
+<img src="https://github.com/mateusvictor/Amazon-Web-Scraper/blob/main/screenshot.jpg">
+
+The results are saved in the same folder as the script in excel and csv formats. Result example in csv format: <a href="https://github.com/mateusvictor/Amazon-Web-Scraper/blob/main/results_csv.csv">results_csv</a>.
