@@ -20,3 +20,6 @@ pip install bs4 # To use BeautifulSoup (library for pulling data out of HTML and
 <img src="https://github.com/mateusvictor/Amazon-Web-Scraper/blob/main/screenshot.jpg" width="700" height="500">
 
 The results are saved in the same folder as the script in excel and csv formats. Result example in csv format: <a href="https://github.com/mateusvictor/Amazon-Web-Scraper/blob/main/results_csv.csv">results_csv</a>.
+
+
+Copyright (c) 2020 Mateus Victor
